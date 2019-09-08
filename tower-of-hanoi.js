@@ -11,5 +11,5 @@ var hanoiSolverRecursive = function(numDisks, fromPeg, toPeg, helper) {
   }
 };
 
-hanoiSolverRecursive(2, 1, 3, 2);
+hanoiSolverRecursive(4, 1, 3, 2);
 
